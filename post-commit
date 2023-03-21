@@ -1,9 +1,0 @@
-#!/bin/sh
-if [ -a .commit ]
-    then
-    rm .commit
-    git log -1 HEAD > tmpfile && cat COMMIT.md >> tmpfile && mv tmpfile COMMIT.md
-    git add COMMIT.md
-    git commit --amend -C HEAD --no-verify
-fi
-exit
