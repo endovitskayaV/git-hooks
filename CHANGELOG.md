@@ -1,4 +1,24 @@
-### doooo (HEAD -> master)
+### So? (HEAD -> master)
+>Tue, 21 Mar 2023 23:16:27 +0300
+
+>Author: vendovitskaya (evvendovitskaya@yandex.ru)
+
+>Commiter: vendovitskaya (evvendovitskaya@yandex.ru)
+
+
+
+
+### doooo (origin/master)
+>Tue, 21 Mar 2023 23:12:37 +0300
+
+>Author: vendovitskaya (evvendovitskaya@yandex.ru)
+
+>Commiter: vendovitskaya (evvendovitskaya@yandex.ru)
+
+
+
+
+### doooo
 >Tue, 21 Mar 2023 23:03:03 +0300
 
 >Author: vendovitskaya (evvendovitskaya@yandex.ru)
@@ -8,7 +28,7 @@
 
 
 
-### раьотает (origin/master)
+### раьотает
 >Tue, 21 Mar 2023 23:02:38 +0300
 
 >Author: vendovitskaya (evvendovitskaya@yandex.ru)
